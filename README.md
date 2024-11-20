@@ -28,7 +28,7 @@ After I used several Machine Learning algorithms for Classification (Logistic Re
 
 We implemented several Machine Learning models, and the best performance was obtained for LigthGBM. We summarize the performances in the following pictures:
 
-<img src="https://github.com/Ricardo-Bortolotti/Regression-house-prices/blob/main/img/results_plot.jpg" width=70% height=70%>    <img src="https://github.com/Ricardo-Bortolotti/Regression-house-prices/blob/main/img/results.png" width=70% height=70%> 
+<img src="https://github.com/Ricardo-Bortolotti/Breast-cancer-prediction/blob/main/img/results_plot.jpg" width=70% height=70%>    <img src="https://github.com/Ricardo-Bortolotti/Breast-cancer-prediction/blob/main/img/results.png" width=70% height=70%> 
 
 ## 6. Source (dataset link)
 
